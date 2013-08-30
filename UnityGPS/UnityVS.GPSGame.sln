@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UnityVS.GPSGame.CSharp", "UnityVS.GPSGame.CSharp.csproj", "{AA60F8D7-8E2E-8EA4-FB9F-CB120E17E58F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UnityVS.GPSGame.CSharp.Editor", "UnityVS.GPSGame.CSharp.Editor.csproj", "{8648FD75-F2D0-353F-851D-05349CF43060}"
+EndProject
+Project("{1FAC5C55-277D-4884-94A4-83DBDAF57E56}") = "UnityVS.GPSGame.UnityScript", "UnityVS.GPSGame.UnityScript.unityproj", "{CE3321CA-6555-2C05-A7EF-56657B908715}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AA60F8D7-8E2E-8EA4-FB9F-CB120E17E58F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AA60F8D7-8E2E-8EA4-FB9F-CB120E17E58F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AA60F8D7-8E2E-8EA4-FB9F-CB120E17E58F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AA60F8D7-8E2E-8EA4-FB9F-CB120E17E58F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8648FD75-F2D0-353F-851D-05349CF43060}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8648FD75-F2D0-353F-851D-05349CF43060}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8648FD75-F2D0-353F-851D-05349CF43060}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8648FD75-F2D0-353F-851D-05349CF43060}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CE3321CA-6555-2C05-A7EF-56657B908715}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CE3321CA-6555-2C05-A7EF-56657B908715}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CE3321CA-6555-2C05-A7EF-56657B908715}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CE3321CA-6555-2C05-A7EF-56657B908715}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

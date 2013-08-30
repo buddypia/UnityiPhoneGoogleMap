@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{1FAC5C55-277D-4884-94A4-83DBDAF57E56}") = "UnityVS.OpenStreetMap_unity_iPhone.UnityScript", "UnityVS.OpenStreetMap_unity_iPhone.UnityScript.unityproj", "{59E64FBB-D72F-DDF9-68AF-F308B893298E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UnityVS.OpenStreetMap_unity_iPhone.CSharp", "UnityVS.OpenStreetMap_unity_iPhone.CSharp.csproj", "{C42CF662-39C7-FF79-71B1-2AA810E60537}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{59E64FBB-D72F-DDF9-68AF-F308B893298E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{59E64FBB-D72F-DDF9-68AF-F308B893298E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{59E64FBB-D72F-DDF9-68AF-F308B893298E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{59E64FBB-D72F-DDF9-68AF-F308B893298E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C42CF662-39C7-FF79-71B1-2AA810E60537}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C42CF662-39C7-FF79-71B1-2AA810E60537}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C42CF662-39C7-FF79-71B1-2AA810E60537}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C42CF662-39C7-FF79-71B1-2AA810E60537}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
