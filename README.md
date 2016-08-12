@@ -5,9 +5,9 @@ UnityでGPSを利用してGoogleMapを表示
 
 説明
 -------------
-5秒ごとにGoogle Map APIを利用してMAP 画像を取得し、画面にGUI Textureに張る
+5秒ごとにGoogle Map APIを利用してMAP 画像を取得し、画面にGUI Textureに貼る
 もしMAP画像を取得中ならダウンロードが終わるまで待って表示
-フールサイズ(画面に合わせた)にしているからiPhoneやPCでもフールサイズで表示される
+フルサイズ(画面に合わせた)にしているからiPhoneやPCでもフルサイズで表示される
 
 License
 -------
